@@ -1,0 +1,11 @@
+{
+  "name": "angelosgian.com",
+  "version": "1.0.0",
+  "description": "Angelos Giannourakos Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Angelos Giannourakos",
+  "license": "MIT"
+}
